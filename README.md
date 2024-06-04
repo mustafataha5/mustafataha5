@@ -3,7 +3,11 @@ I’m a full stack developer, knowledgeable in Python and JavaScript, and I’m 
 
 I'm all about problem-solving and innovation, especially when it comes to web development using Django. I recently put my skills to the test by building a cool bookstore website, and let me tell you, it was quite the journey! I love diving deep into code and figuring out how to make things work .But what really drives me is collaboration. 
 
-I thrive in team settings where everyone brings their unique expertise to the table. I'm always eager to share what I know and learn from others along the way. To me, being part of a collaborative team is not just about getting the job done; it's about growing together and pushing the boundaries of what we can achieve.
+[![BOOKSTORE WEBSITE](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](http://13.50.247.112/main)
+
+
+
+
 
 So,If you're seeking someone with a flair for problem-solving, a passion for Django, and a strong desire to work alongside a  team, then you're in luck—I'm your person!
 ###
