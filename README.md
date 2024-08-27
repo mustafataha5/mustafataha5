@@ -4,10 +4,47 @@ I'm a passionate full stack developer with a strong background in **Java**, **Ja
 
 ### 🚀 Technical Skills
 
-- **Languages:** Java, JavaScript (ES6), Python, HTML5, CSS3, SQL, Shell/Bash, C, Assembly (8086, PIC16), Verilog
-- **Frameworks & Libraries:** Flask, Django, Spring Boot, MERN (MongoDB, Express.js, React.js, Node.js), Jinja2, jQuery, Bootstrap 5, Material UI
-- **Databases:** MySQL, SQLite, MongoDB
-- **Tools & Technologies:** AJAX, JSON, Socket.IO, AWS (EC2), Git, GitHub, LDAP, Ovirt, Docker, OpenVPN, Network
+## Technologies and Tools 
+
+[![Java](https://img.shields.io/badge/Java-v17-orange?logo=java)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-v3.9.6-blue?logo=python)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-v5-red?logo=html5)](https://validator.w3.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-v3-blue?logo=css3)](https://www.w3.org/Style/CSS/)
+[![SQL](https://img.shields.io/badge/SQL-valid-lightgrey?logo=postgresql)](https://www.postgresql.org/)
+[![Shell/Bash](https://img.shields.io/badge/Shell_Bash-v5.1-black?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![C](https://img.shields.io/badge/C-ANSI-red?logo=c)](https://en.cppreference.com/w/c/language)
+[![Assembly](https://img.shields.io/badge/Assembly-8086-orange?logo=assembly)](https://en.wikipedia.org/wiki/X86_assembly_language)
+[![Verilog](https://img.shields.io/badge/Verilog-IEEE_1364-red?logo=verilog)](https://en.wikipedia.org/wiki/Verilog)
+
+### Libraries and Frameworks
+[![Flask](https://img.shields.io/badge/Flask-v2.1-blue?logo=flask)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-v4.1-green?logo=django)](https://www.djangoproject.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-v2.7.3-brightgreen?logo=spring-boot)](https://spring.io/projects/spring-boot)
+[![MERN](https://img.shields.io/badge/MERN-Stack-black?logo=react)](https://www.mongodb.com/mern-stack)
+[![Jinja2](https://img.shields.io/badge/Jinja2-v3.0.3-blueviolet?logo=jinja)](https://jinja.palletsprojects.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-v3.6.0-blue?logo=jquery)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-blueviolet?logo=bootstrap)](https://getbootstrap.com/)
+[![Material UI](https://img.shields.io/badge/Material_UI-v5.9-blue?logo=mui)](https://mui.com/)
+
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-v3.36.0-blue?logo=sqlite)](https://www.sqlite.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb)](https://www.mongodb.com/)
+
+### Tools
+[![AJAX](https://img.shields.io/badge/AJAX-Valid-lightgrey?logo=ajax)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+[![JSON](https://img.shields.io/badge/JSON-Valid-lightgrey?logo=json)](https://www.json.org/json-en.html)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-v4.3.2-black?logo=socket.io)](https://socket.io/)
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-v2022-orange?logo=amazon-aws)](https://aws.amazon.com/ec2/)
+[![Git](https://img.shields.io/badge/Git-v2.35.1-brightgreen?logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/)
+[![LDAP](https://img.shields.io/badge/LDAP-v3-orange?logo=openldap)](https://www.openldap.org/)
+[![Ovirt](https://img.shields.io/badge/Ovirt-Valid-red?logo=redhat)](https://www.ovirt.org/)
+[![Docker](https://img.shields.io/badge/Docker-v20.10-blue?logo=docker)](https://www.docker.com/)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-v2.5-orange?logo=openvpn)](https://openvpn.net/)
+[![Networking](https://img.shields.io/badge/Networking-Valid-blue?logo=cisco)](https://www.cisco.com/)
+
 
 ### 💻 Featured Projects
 
