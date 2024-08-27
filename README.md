@@ -1,61 +1,30 @@
-### Hi there ,I’m Mustafa taha 👋
-I’m a full stack developer, knowledgeable in Python and JavaScript, and I’m super passionate about creative problem-solving. I thrive on tackling complex challenges and finding innovative solutions that drive efficiency and functionality. Additionally, I have a strong interest in staying updated with the latest technological advancements and continuously improving my skills to deliver high-quality, impactful projects.
+### Hi there, I'm Mustafa Taha 👋
 
-I'm all about problem-solving and innovation, especially when it comes to web development using Django. I recently put my skills to the test by building a cool bookstore website, and let me tell you, it was quite the journey! I love diving deep into code and figuring out how to make things work .But what really drives me is collaboration. 
+I'm a passionate full stack developer with a strong background in **Java**, **JavaScript (ES6)**, and **Python**. My journey in web development has been driven by a love for problem-solving and innovation, particularly using frameworks like **Django** and **Spring Boot**.
 
-[![BOOKSTORE WEBSITE](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](http://13.50.247.112/main)
+### 🚀 Technical Skills
 
+- **Languages:** Java, JavaScript (ES6), Python, HTML5, CSS3, SQL, Shell/Bash, C, Assembly (8086, PIC16), Verilog
+- **Frameworks & Libraries:** Flask, Django, Spring Boot, MERN (MongoDB, Express.js, React.js, Node.js), Jinja2, jQuery, Bootstrap 5, Material UI
+- **Databases:** MySQL, SQLite, MongoDB
+- **Tools & Technologies:** AJAX, JSON, Socket.IO, AWS (EC2), Git, GitHub, LDAP, Ovirt, Docker, OpenVPN, Network
 
+### 💻 Featured Projects
 
+- **[ReadEase](https://github.com/mustafataha5/New_Book_store)** | Online Book Store  
+  Built using Django and Jinja2, this platform provides users with book reviews and detailed information. Features include AJAX-based smooth UI, robust validations, and more.
 
+- **[PalRent](https://github.com/mustafataha5/palrent)** | Apartment Reservation System  
+  A Spring Boot application that allows users to book apartments in Palestine. It includes secure authentication, property management, search filters, booking history, and an admin dashboard.
 
-So,If you're seeking someone with a flair for problem-solving, a passion for Django, and a strong desire to work alongside a  team, then you're in luck—I'm your person!
-###
+- **[LinkUp](https://github.com/mustafataha5/LinkUp)** | Social Media Platform  
+  A MERN stack-based social media platform that supports user authentication, post creation, and real-time updates.
 
+### 📈 GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafataha5&layout=compact&theme=radical)](https://github.com/mustafataha5/github-readme-stats)
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafataha5&show_icons=true&theme=radical)
 
-## Technologies and Tools 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-v24.04-orange?logo=ubuntu)](https://ubuntu.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-valid-blue?logo=html5)](https://validator.w3.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-valid-blue?logo=css3)](https://www.w3.org/Style/CSS/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-blueviolet?logo=bootstrap)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-valid-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://img.shields.io/badge/jQuery-v3.6.0-blue?logo=jquery)](https://jquery.com/)
-[![Python](https://img.shields.io/badge/Python-v3.9.6-blue?logo=python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-v2.2.4-green?logo=django)](https://www.djangoproject.com/)
+---
 
-
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafataha5&layout=donut&theme=nord)](https://github.com/mustafataha5/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafataha5&show_icons=true&theme=nord)
-
-
-
-
-  
-You can find me on 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]( https://www.linkedin.com/in/mustafa-taha-3b87771b4/ ) 
-
-👯 I’m looking to collaborate on ...
-
-🌱 I’m currently learning ....
-
-<!--
-**mustafataha5/mustafataha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafataha5&show_icons=true)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafataha5&size_weight=0.5&count_weight=0.5)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafataha5)](https://github.com/mustafataha5/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafataha5&hide=contribs,prs)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
--- 📫 How to reach me: 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-taha-3b87771b4/) or check out more of my work on [GitHub](https://github.com/mustafataha5).
