@@ -1,53 +1,62 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+
+
 
 ### Hi there, I'm Mustafa Taha 👋
 
 I'm a passionate full-stack developer with a strong background in **Java**, **JavaScript (ES6)**, and **Python**. My journey in web development has been driven by a love for problem-solving and innovation, particularly using frameworks like **Django**, **Spring Boot**, and **Flutter**.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Profile Image" width="400"/>
+</p>
 ---
 
 ### 🚀 Technical Skills
 
-#### 🛠️ Technologies and Tools  
-[![Java](https://img.shields.io/badge/Java-v17-orange?logo=java)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-v3.9.6-blue?logo=python)](https://www.python.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-v3.10.0-blue?logo=flutter)](https://flutter.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-v5-red?logo=html5)](https://validator.w3.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-v3-blue?logo=css3)](https://www.w3.org/Style/CSS/)
-[![SQL](https://img.shields.io/badge/SQL-valid-lightgrey?logo=postgresql)](https://www.postgresql.org/)
-[![Shell/Bash](https://img.shields.io/badge/Shell_Bash-v5.1-black?logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![C](https://img.shields.io/badge/C-ANSI-red?logo=c)](https://en.cppreference.com/w/c/language)
-[![Assembly](https://img.shields.io/badge/Assembly-8086-orange?logo=assembly)](https://en.wikipedia.org/wiki/X86_assembly_language)
-[![Verilog](https://img.shields.io/badge/Verilog-IEEE_1364-red?logo=verilog)](https://en.wikipedia.org/wiki/Verilog)
+#### 🛠️ Technologies and Tools
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-v17-orange?logo=java" alt="Java Badge"/> Java</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" alt="JavaScript Badge"/> JavaScript (ES6)</a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-v3.9.6-blue?logo=python" alt="Python Badge"/> Python</a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-v3.10.0-blue?logo=flutter" alt="Flutter Badge"/> Flutter</a>
+</p>
+<p align="center">
+  <a href="https://validator.w3.org/"><img src="https://img.shields.io/badge/HTML5-v5-red?logo=html5" alt="HTML5 Badge"/> HTML5</a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-v3-blue?logo=css3" alt="CSS3 Badge"/> CSS3</a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-valid-lightgrey?logo=postgresql" alt="SQL Badge"/> SQL</a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Bash-v5.1-black?logo=gnu-bash" alt="Shell/Bash Badge"/> Shell/Bash</a>
+</p>
 
-#### 🖥️ Libraries and Frameworks  
-[![Flask](https://img.shields.io/badge/Flask-v2.1-blue?logo=flask)](https://flask.palletsprojects.com/)
-[![Django](https://img.shields.io/badge/Django-v4.1-green?logo=django)](https://www.djangoproject.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-v2.7.3-brightgreen?logo=spring-boot)](https://spring.io/projects/spring-boot)
-[![MERN](https://img.shields.io/badge/MERN-Stack-black?logo=react)](https://www.mongodb.com/mern-stack)
-[![Jinja2](https://img.shields.io/badge/Jinja2-v3.0.3-blueviolet?logo=jinja)](https://jinja.palletsprojects.com/)
-[![jQuery](https://img.shields.io/badge/jQuery-v3.6.0-blue?logo=jquery)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-blueviolet?logo=bootstrap)](https://getbootstrap.com/)
-[![Material UI](https://img.shields.io/badge/Material_UI-v5.9-blue?logo=mui)](https://mui.com/)
 
-#### 🗄️ Databases  
-[![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-v3.36.0-blue?logo=sqlite)](https://www.sqlite.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb)](https://www.mongodb.com/)
 
-#### 🔧 Tools  
-[![AJAX](https://img.shields.io/badge/AJAX-Valid-lightgrey?logo=ajax)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-[![JSON](https://img.shields.io/badge/JSON-Valid-lightgrey?logo=json)](https://www.json.org/json-en.html)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-v4.3.2-black?logo=socket.io)](https://socket.io/)
-[![AWS EC2](https://img.shields.io/badge/AWS_EC2-v2022-orange?logo=amazon-aws)](https://aws.amazon.com/ec2/)
-[![Git](https://img.shields.io/badge/Git-v2.35.1-brightgreen?logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/)
-[![LDAP](https://img.shields.io/badge/LDAP-v3-orange?logo=openldap)](https://www.openldap.org/)
-[![Ovirt](https://img.shields.io/badge/Ovirt-Valid-red?logo=redhat)](https://www.ovirt.org/)
-[![Docker](https://img.shields.io/badge/Docker-v20.10-blue?logo=docker)](https://www.docker.com/)
-[![OpenVPN](https://img.shields.io/badge/OpenVPN-v2.5-orange?logo=openvpn)](https://openvpn.net/)
-[![Networking](https://img.shields.io/badge/Networking-Valid-blue?logo=cisco)](https://www.cisco.com/)
+#### 🖥️ Libraries and Frameworks
+<p align="center">
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-v2.1-blue?logo=flask" alt="Flask Badge"/> Flask</a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-v4.1-green?logo=django" alt="Django Badge"/> Django</a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-v2.7.3-brightgreen?logo=spring-boot" alt="Spring Boot Badge"/> Spring Boot</a>
+  <a href="https://www.mongodb.com/mern-stack"><img src="https://img.shields.io/badge/MERN-Stack-black?logo=react" alt="MERN Badge"/> MERN Stack</a>
+</p>
+
+
+
+
+#### 🗄️ Databases
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql" alt="MySQL Badge"/> MySQL</a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-v3.36.0-blue?logo=sqlite" alt="SQLite Badge"/> SQLite</a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb" alt="MongoDB Badge"/> MongoDB</a>
+</p>
+
+
+
+#### 🔧 Tools
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://img.shields.io/badge/AJAX-Valid-lightgrey?logo=ajax" alt="AJAX Badge"/> AJAX</a>
+  <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/JSON-Valid-lightgrey?logo=json" alt="JSON Badge"/> JSON</a>
+  <a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.IO-v4.3.2-black?logo=socket.io" alt="Socket.IO Badge"/> Socket.IO</a>
+  <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS_EC2-v2022-orange?logo=amazon-aws" alt="AWS EC2 Badge"/> AWS EC2</a>
+</p>
+
+
 
 ---
 
@@ -65,10 +74,12 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
 ---
 
 ### 📈 GitHub Stats
+  <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafataha5&layout=compact&theme=radical)](https://github.com/mustafataha5/github-readme-stats)
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafataha5&show_icons=true&theme=radical)
 
+</div>
 ---
 
 ### 🤝 Contact Me
