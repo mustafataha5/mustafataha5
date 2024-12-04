@@ -1,9 +1,6 @@
-
-
-
 ### Hi there, I'm Mustafa Taha 👋
 
-I'm a passionate full-stack developer with a strong background in **Java**, **JavaScript (ES6)**, and **Python**. My journey in web development has been driven by a love for problem-solving and innovation, particularly using frameworks like **Django**, **Spring Boot**, and **Flutter**.
+I'm a passionate full-stack developer with a strong background in **Java**, **JavaScript (ES6)**, and **Python**. My journey in web development has been driven by a love for problem-solving and innovation, particularly using frameworks like **Django**, **Spring Boot**, **Flutter**, and **React**.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Profile Image" width="400"/>
@@ -26,8 +23,6 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Bash-v5.1-black?logo=gnu-bash" alt="Shell/Bash Badge"/></a>
 </p>
 
-
-
 #### 🖥️ Libraries and Frameworks
 <p align="center">
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-v2.1-blue?logo=flask" alt="Flask Badge"/> </a>
@@ -36,17 +31,12 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
   <a href="https://www.mongodb.com/mern-stack"><img src="https://img.shields.io/badge/MERN-Stack-black?logo=react" alt="MERN Badge"/></a>
 </p>
 
-
-
-
 #### 🗄️ Databases
 <p align="center">
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql" alt="MySQL Badge"/></a>
   <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-v3.36.0-blue?logo=sqlite" alt="SQLite Badge"/></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb" alt="MongoDB Badge"/></a>
 </p>
-
-
 
 #### 🔧 Tools
 <p align="center">
@@ -55,8 +45,6 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
   <a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.IO-v4.3.2-black?logo=socket.io" alt="Socket.IO Badge"/> </a>
   <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS_EC2-v2022-orange?logo=amazon-aws" alt="AWS EC2 Badge"/> </a>
 </p>
-
-
 
 ---
 
@@ -71,6 +59,9 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
 - **[LinkUp](https://github.com/mustafataha5/LinkUp)** | Social Media Platform  
   A MERN stack-based social media platform that supports user authentication, post creation, and real-time updates.
 
+- **[Istanbul Mall](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application  
+  A full-stack web application built with React (Admin), Node.js, MongoDB, and Flutter (Client). The platform allows users to browse different shopping mall categories, check store details, and manage shopping cart items. It includes features such as real-time product availability and dynamic mall navigation. The admin panel provides store management, product updates, and user interaction management.
+  
 ---
 
 ### 📈 GitHub Stats
