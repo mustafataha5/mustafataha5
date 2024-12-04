@@ -59,7 +59,7 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
 - **[LinkUp](https://github.com/mustafataha5/LinkUp)** | Social Media Platform  
   A MERN stack-based social media platform that supports user authentication, post creation, and real-time updates.
 
-- **[Istanbul Mall](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application  
+- **[E-Commerce](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application  
   A full-stack web application built with React (Admin), Node.js, MongoDB, and Flutter (Client). The platform allows users to browse different shopping mall categories, check store details, and manage shopping cart items. It includes features such as real-time product availability and dynamic mall navigation. The admin panel provides store management, product updates, and user interaction management.
   
 ---
