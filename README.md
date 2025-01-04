@@ -63,8 +63,12 @@ I specialize in full-stack development, with expertise in **backend** frameworks
 
 - **[E-Commerce](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application  
   A full-stack web application built with React (Admin), Node.js, MongoDB, and Flutter (Client). The platform allows users to browse different shopping mall categories, check store details, and manage shopping cart items. It includes features such as real-time product availability and dynamic mall navigation. The admin panel provides store management, product updates, and user interaction management.
-<img src="https://github.com/mustafataha5/e-commerce/blob/master/images/main.png" width="300"/>  
-  <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/entry.png" width="300"/>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/main.png" width="300"/>
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/entry.png" width="300"/>
+  </div>
   
 ---
 
