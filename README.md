@@ -68,7 +68,6 @@ I specialize in full-stack development, with expertise in **backend** frameworks
      <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/entry.png" width="300"/>
      <img src="https://github.com/mustafataha5/New_Book_store/blob/master/book1.png" width="300"/>
      <img src="https://github.com/mustafataha5/palrent/blob/master/1.png" width="300"/>
-      <img src="https://github.com/mustafataha5/palrent/blob/master/1.png" width="300"/>
       <img src="https://github.com/mustafataha5/LinkUp/blob/master/User.png" width="300"/>
       
      
