@@ -2,6 +2,8 @@
 
 I'm a passionate full-stack developer with a strong background in **Java**, **JavaScript (ES6)**, and **Python**. My journey in web development has been driven by a love for problem-solving and innovation, particularly using frameworks like **Django**, **Spring Boot**, **Flutter**, and **React**.
 
+I specialize in full-stack development, with expertise in **backend** frameworks such as **Spring Boot** and **Django**, and **frontend** technologies like **React** and **Flutter**.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Profile Image" width="400"/>
 </p>
@@ -61,6 +63,7 @@ I'm a passionate full-stack developer with a strong background in **Java**, **Ja
 
 - **[E-Commerce](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application  
   A full-stack web application built with React (Admin), Node.js, MongoDB, and Flutter (Client). The platform allows users to browse different shopping mall categories, check store details, and manage shopping cart items. It includes features such as real-time product availability and dynamic mall navigation. The admin panel provides store management, product updates, and user interaction management.
+  ![E-Commerce Main Image](https://github.com/mustafataha5/e-commerce/blob/master/images/main.png)
   
 ---
 
@@ -79,4 +82,6 @@ Feel free to connect with me via the platforms below!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mustafa-taha-3b87771b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mustafataha5)
+
+ I'm also working on improving my algorithm skills on platforms like LeetCode.
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/mustafataha5/)
