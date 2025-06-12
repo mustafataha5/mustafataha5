@@ -33,6 +33,7 @@ I love diving into various technologies and frameworks to build powerful solutio
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-v2.7.3-brightgreen?logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> </a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-v18-61DAFB?logo=react&logoColor=white" alt="React Badge"/> </a>
   <a href="https://www.mongodb.com/mern-stack"><img src="https://img.shields.io/badge/MERN-Stack-black?logo=react&logoColor=white" alt="MERN Badge"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v3-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/></a>
 </p>
 
 #### 🗄️ Databases
@@ -113,4 +114,5 @@ I'm always eager to collaborate on exciting projects or discuss new technologies
   <a href="https://www.linkedin.com/in/mustafa-taha-3b87771b4/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="https://github.com/mustafataha5"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" alt="GitHub Profile"/></a>
   <a href="https://leetcode.com/u/user2128Dt/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode Profile"/></a>
+  <a href="https://mustafataha5.github.io/"><img src="https://img.shields.io/badge/Personal_Website-mustafataha5.github.io-blueviolet?logo=github&logoColor=white" alt="Personal Website"/></a>
 </p>
