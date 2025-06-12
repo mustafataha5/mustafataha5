@@ -100,4 +100,4 @@ Feel free to connect with me via the platforms below!
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mustafataha5)
 
  I'm also working on improving my algorithm skills on platforms like LeetCode.
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/mustafataha5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/user2128Dt/)
