@@ -1,70 +1,98 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Profile Image" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Welcome" width="400"/>
 </p>
 
-# 👋 Hi there! I'm Mustafa Taha
+<h1 align="center">👋 Hi there! I'm Mustafa Taha 👋</h1>
+<h3 align="center">A Passionate Full Stack Developer from Palestine 🇵🇸 | Building robust and dynamic web solutions</h3>
 
-Welcome to my corner of the internet! I'm a passionate **Full-Stack Developer** who thrives on bringing innovative ideas to life through code. My journey in web development is fueled by a constant desire to solve complex problems and build impactful applications.
-
-I specialize in creating seamless experiences across the entire stack, with robust **backend expertise** in **Spring Boot** and **Django**, complemented by dynamic **frontend development** using **React** and **Flutter**.
-
----
-
-### 🚀 My Technical Arsenal
-
-I love diving into various technologies and frameworks to build powerful solutions.
-
-#### 🛠️ Core Languages & Technologies
 <p align="center">
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-v17-orange?logo=java&logoColor=white" alt="Java Badge"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" alt="JavaScript Badge"/> </a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-v3.9.6-blue?logo=python&logoColor=white" alt="Python Badge"/> </a>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-v3.10.0-blue?logo=flutter&logoColor=white" alt="Flutter Badge"/> </a>
-  <a href="https://validator.w3.org/"><img src="https://img.shields.io/badge/HTML5-v5-red?logo=html5&logoColor=white" alt="HTML5 Badge"/> </a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-v3-blue?logo=css3&logoColor=white" alt="CSS3 Badge"/> </a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-valid-lightgrey?logo=postgresql&logoColor=white" alt="SQL Badge"/> </a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell_Bash-v5.1-black?logo=gnu-bash&logoColor=white" alt="Shell/Bash Badge"/></a>
-</p>
-
-#### 🖥️ Libraries & Frameworks
-<p align="center">
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-v2.1-blue?logo=flask&logoColor=white" alt="Flask Badge"/> </a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-v4.1-green?logo=django&logoColor=white" alt="Django Badge"/> </a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-v2.7.3-brightgreen?logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> </a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-v18-61DAFB?logo=react&logoColor=white" alt="React Badge"/> </a>
-  <a href="https://www.mongodb.com/mern-stack"><img src="https://img.shields.io/badge/MERN-Stack-black?logo=react&logoColor=white" alt="MERN Badge"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-v3-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/></a>
-</p>
-
-#### 🗄️ Databases
-<p align="center">
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-v8.0-blue?logo=mysql&logoColor=white" alt="MySQL Badge"/></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-v3.36.0-blue?logo=sqlite&logoColor=white" alt="SQLite Badge"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-v4.4-green?logo=mongodb&logoColor=white" alt="MongoDB Badge"/></a>
-</p>
-
-#### 🔧 Development Tools
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://img.shields.io/badge/AJAX-Valid-lightgrey?logo=ajax&logoColor=black" alt="AJAX Badge"/> </a>
-  <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/JSON-Valid-lightgrey?logo=json&logoColor=black" alt="JSON Badge"/> </a>
-  <a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.IO-v4.3.2-black?logo=socket.io&logoColor=white" alt="Socket.IO Badge"/> </a>
-  <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS_EC2-v2022-orange?logo=amazon-aws&logoColor=white" alt="AWS EC2 Badge"/> </a>
+  <img src="https://komarev.com/ghpvc/?username=mustafataha5&label=Profile%20views&color=0e75b6&style=flat" alt="mustafataha5" />
 </p>
 
 ---
 
-### 💡 What I'm Currently Exploring
+## 🌐 My Digital Hubs
 
-I'm always learning and expanding my skill set! Right now, I'm particularly interested in:
-* Delving deeper into **containerization technologies** like Docker.
-* Exploring advanced patterns in **microservices architecture** with Spring Boot.
-* Enhancing my **algorithm and data structure** skills on platforms like LeetCode.
+Here's where you can find my work and connect with me online:
+
+* **Portfolio Website:** 🔗 [mustafataha5.github.io](https://mustafataha5.github.io)
+* **GitHub Portfolio:** 📂 [My Repositories](https://github.com/mustafataha5?tab=repositories)
+* **Email:** 📧 [mustafa.taha.mu95@gmail.com](mailto:mustafa.taha.mu95@gmail.com)
 
 ---
 
-### 💻 Featured Projects
+## 🚀 About Me
 
-Here are some of my proudest creations that showcase my full-stack development skills:
+-   🔭 I'm currently dedicating my efforts to the **LinkUp Social Media Platform**.
+-   🌱 I'm actively expanding my knowledge in **AI/ML** and mastering **Flutter**.
+-   💡 I thrive on learning and enjoy sharing insights with others.
+-   ✨ Fun Fact: I believe every line of code tells a story!
+
+---
+
+## 🛠️ My Tech Stack
+
+I leverage a diverse set of technologies to build powerful and scalable applications:
+
+### 👨‍💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white" alt="Verilog"/>
+</p>
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+### 🧠 AI / ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-8CAAE6?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+Here are some of my key projects demonstrating my full-stack capabilities and problem-solving approach:
 
 -   **[ReadEase](https://github.com/mustafataha5/New_Book_store)** | Online Book Store 📚
     Built with **Django** and **Jinja2**, ReadEase is a platform for book enthusiasts to discover reviews and detailed book information. It features an **AJAX-based smooth UI** and robust validations.
@@ -76,9 +104,9 @@ Here are some of my proudest creations that showcase my full-stack development s
     A dynamic social media platform built on the **MERN stack**, LinkUp supports user authentication, post creation, and real-time updates for an engaging user experience.
 
 -   **[E-Commerce](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application 🛍️
-    This full-stack application provides a complete e-commerce solution with a **React-based admin panel** and a **Flutter client**. It leverages **Node.js** and **MongoDB** to offer features like Browse various shopping mall categories, checking store details, and managing shopping cart items. The platform includes real-time product availability and dynamic mall navigation, while the admin panel facilitates store management, product updates, and user interaction management.
+    A full-stack application with a **React-based admin panel** and a **Flutter client**, leveraging **Node.js** and **MongoDB**. It offers dynamic mall navigation, real-time product availability, and comprehensive store/user management.
 
-#### Project Screenshots:
+#### Project Snapshots:
 
 <p align="center">
   <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/entry.png" width="300" alt="E-Commerce Entry Page"/>
@@ -96,23 +124,22 @@ Here are some of my proudest creations that showcase my full-stack development s
 
 ---
 
-### 🏆 My GitHub Stats & Trophies
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafataha5&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafataha5&show_icons=true&theme=radical" alt="Mustafa's GitHub stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafataha5&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafataha5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mustafa's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafataha5&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafataha5&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 📧 Let's Connect!
+### 🤝 Let's Connect!
 
 I'm always eager to collaborate on exciting projects or discuss new technologies. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-taha-3b87771b4/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
-  <a href="https://github.com/mustafataha5"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" alt="GitHub Profile"/></a>
-  <a href="https://leetcode.com/u/user2128Dt/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white" alt="LeetCode Profile"/></a>
-  <a href="https://mustafataha5.github.io/"><img src="https://img.shields.io/badge/Personal_Website-mustafataha5.github.io-blueviolet?logo=github&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://www.linkedin.com/in/mustafa-taha-3b87771b4/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Profile"/></a>
+  <a href="https://github.com/mustafataha5"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Profile"/></a>
+  <a href="https://leetcode.com/u/user2128Dt/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Profile"/></a>
 </p>
