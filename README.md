@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Welcome" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="Welcome" width="200"/>
 </p>
 
 <h1 align="center">👋 Hi there! I'm Mustafa Taha 👋</h1>
