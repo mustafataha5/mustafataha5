@@ -156,7 +156,7 @@ Here are some of my key projects demonstrating my full-stack capabilities and pr
    <img src="https://github.com/mustafataha5/Reinforcement-Learning/blob/main/imgs/trained_PandaReach-v3.png" width="300" alt="RL ROBOT"/>
   <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/sales_vs_categories_bar.PNG" width="300" alt="E-commerce Sales Categories Bar"/>
   <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/coustemers_per_country.PNG" width="300" alt="E-commerce Customers per Country"/>
-  <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/sales_per_country.PNG" width="300" alt="E-commerce Sales per Country"/>
+  <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/blob/main/imgs/sales_vs_categories_pie.PNG" width="300" alt="E-commerce Sales Vs Categories Pie"/>
   <img src="https://github.com/mustafataha5/AI_Heart_Attack/blob/main/imgs/website_with_prediction.png" width="300" alt="Heart Attack Prediction Plot"/>
   <img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/dron_q_learn_1_eval.png" width="300" alt="Drone Navigation Evaluation 1"/>
   <img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/dron_q_learn_2_eval.png" width="300" alt="Drone Navigation Evaluation 2"/>
