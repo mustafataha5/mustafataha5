@@ -80,8 +80,9 @@ I leverage a diverse set of technologies to build powerful and scalable applicat
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/Stable--Baselines3-00A3E0?style=for-the-badge&logoColor=white" alt="Stable-Baselines3"/>
 </p>
-
 
 ### 🧰 Tools & Platforms
 <p align="center">
@@ -94,8 +95,39 @@ I leverage a diverse set of technologies to build powerful and scalable applicat
 
 ---
 
-## 💻 Featured Projects
+## 🧠 AI/ML Projects
 
+As part of my **Artificial Intelligence Nanodegree** from Hsoub Academy, I built innovative AI solutions:
+
+- **[Food Image Classifier](https://github.com/mustafataha5/foodapp)** | Computer Vision 🍔  
+  Developed a CNN model with TensorFlow/Keras for restaurant menu classification, handling web scraping, preprocessing, and training. Achieved 92% accuracy.  
+  
+
+- **[Smart E-commerce AI Recommender](https://github.com/mustafataha5/smart-ecommerce-ai-recommender)** | Recommendation & Forecasting 🛍️  
+  Built a Flask-based system with association rules and time series forecasting for personalized product suggestions and sales predictions. Improved engagement by 20%.  
+  <p align="center"><img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/sales_vs_categories_bar.PNG" width="300" alt="E-commerce Sales Categories"/></p>
+
+- **[Heart Attack Prediction](https://github.com/mustafataha5/AI_Heart_Attack)** | Healthcare ML ❤️  
+  Created a machine learning model using Scikit-learn and Pandas to predict heart attack risk, achieving 85% accuracy.  
+  <p align="center"><img src="https://github.com/mustafataha5/AI_Heart_Attack/blob/main/imgs/website_with_prediction.png" width="300" alt="Heart Attack Prediction Plot"/></p>
+
+- **[Reinforcement Learning](https://github.com/mustafataha5/Reinforcement-Learning)** | Drone & Gaming AI 🚁🎮  
+  Implemented Q-learning for drone navigation in a custom Gymnasium environment and trained agents for Atari/Flappy Bird with Stable-Baselines3.  
+  <p align="center"><img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/dron_q_learn_1_eval.png" width="300" alt="Drone Navigation Evaluation"/></p>
+
+- **NLP Projects** | Sentiment & Classification 📝  
+  Built models for sentiment analysis (movies, Arabic tweets), spam detection, and fake news classification using BERT and RNNs (repo coming soon).
+
+- **Traffic Monitoring System** | Computer Vision 🚗  
+  Developed car detection and license plate OCR with YOLO and OpenCV (repo coming soon).
+
+- **Intelligent Chatbots** | Web Deployment 💬  
+  Created AI-powered chatbots using Streamlit and Flask/Django, integrated with ML models (repo coming soon).
+
+---
+## 💻 Full-Stack Projects
+
+My full-stack projects showcase scalable web and mobile applications:
 Here are some of my key projects demonstrating my full-stack capabilities and problem-solving approach:
 
 -   **[ReadEase](https://github.com/mustafataha5/New_Book_store)** | Online Book Store 📚
