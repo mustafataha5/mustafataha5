@@ -23,10 +23,10 @@ Here's where you can find my work and connect with me online:
 
 ## 🚀 About Me
 
--   🔭 I'm currently dedicating my efforts to the **LinkUp Social Media Platform**.
--   🌱 I'm actively expanding my knowledge in **AI/ML** and mastering **Flutter**.
--   💡 I thrive on learning and enjoy sharing insights with others.
--   ✨ Fun Fact: I believe every line of code tells a story!
+- 🔭 I'm blending **AI/ML** with full-stack development, working on projects like [smart-ecommerce-ai-recommender](https://github.com/mustafataha5/smart-ecommerce-ai-recommender) and [LinkUp](https://github.com/mustafataha5/LinkUp).
+- 🌱 Recently completed my **Artificial Intelligence Nanodegree** from Hsoub Academy ([Certificate](https://academy.hsoub.com/certificate/PPL5OG77EKFAR2GRNBE78V8A9.pdf)).
+- 💡 I thrive on solving complex problems and sharing insights with the tech community.
+- ✨ Fun Fact: Every dataset and line of code tells a unique story!
 
 ---
 
