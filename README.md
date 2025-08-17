@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi there! I'm Mustafa Taha 👋</h1>
-<h3 align="center">A Passionate Full Stack Developer from Palestine 🇵🇸 | Building robust and dynamic web solutions</h3>
+<h3 align="center">AI Engineer & Full-Stack Developer from Palestine 🇵🇸 | Building intelligent, scalable solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafataha5&label=Profile%20views&color=0e75b6&style=flat" alt="mustafataha5" />
