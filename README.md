@@ -13,11 +13,13 @@
 
 ## 🌐 My Digital Hubs
 
-Here's where you can find my work and connect with me online:
+Connect with me and explore my work:
 
-* **Portfolio Website:** 🔗 [mustafataha5.github.io](https://mustafataha5.github.io)
-* **GitHub Portfolio:** 📂 [My Repositories](https://github.com/mustafataha5?tab=repositories)
-* **Email:** 📧 [mustafa.taha.mu95@gmail.com](mailto:mustafa.taha.mu95@gmail.com)
+- **Portfolio Website:** 🔗 [mustafataha5.github.io](https://mustafataha5.github.io)
+- **GitHub Portfolio:** 📂 [My Repositories](https://github.com/mustafataha5?tab=repositories)
+- **Email:** 📧 [mustafa.taha.mu95@gmail.com](mailto:mustafa.taha.mu95@gmail.com)
+- **LinkedIn:** 🔗 [Mustafa Taha](https://www.linkedin.com/in/mustafa-taha-3b87771b4/)
+- **LeetCode:** 🔗 [user2128Dt](https://leetcode.com/u/user2128Dt/)
 
 ---
 
@@ -32,7 +34,7 @@ Here's where you can find my work and connect with me online:
 
 ## 🛠️ My Tech Stack
 
-I leverage a diverse set of technologies to build powerful and scalable applications:
+I build robust applications with a diverse set of tools:
 
 ### 👨‍💻 Languages
 <p align="center">
@@ -59,6 +61,8 @@ I leverage a diverse set of technologies to build powerful and scalable applicat
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
@@ -67,6 +71,7 @@ I leverage a diverse set of technologies to build powerful and scalable applicat
 ### 📱 Mobile Development
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
 ### 🧠 AI / ML & Data Science
@@ -81,6 +86,7 @@ I leverage a diverse set of technologies to build powerful and scalable applicat
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge&logoColor=white" alt="Gymnasium"/>
   <img src="https://img.shields.io/badge/Stable--Baselines3-00A3E0?style=for-the-badge&logoColor=white" alt="Stable-Baselines3"/>
 </p>
 
@@ -100,20 +106,16 @@ I leverage a diverse set of technologies to build powerful and scalable applicat
 As part of my **Artificial Intelligence Nanodegree** from Hsoub Academy, I built innovative AI solutions:
 
 - **[Food Image Classifier](https://github.com/mustafataha5/foodapp)** | Computer Vision 🍔  
-  Developed a CNN model with TensorFlow/Keras for restaurant menu classification, handling web scraping, preprocessing, and training. Achieved 92% accuracy.  
-  
+  Developed a CNN model with TensorFlow/Keras for restaurant menu classification, handling web scraping, preprocessing, and training. Achieved 92% accuracy.
 
 - **[Smart E-commerce AI Recommender](https://github.com/mustafataha5/smart-ecommerce-ai-recommender)** | Recommendation & Forecasting 🛍️  
-  Built a Flask-based system with association rules and time series forecasting for personalized product suggestions and sales predictions. Improved engagement by 20%.  
-  <p align="center"><img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/sales_vs_categories_bar.PNG" width="300" alt="E-commerce Sales Categories"/></p>
+  Built a Flask-based system with association rules and time series forecasting for personalized product suggestions and sales predictions. Improved engagement by 20%.
 
 - **[Heart Attack Prediction](https://github.com/mustafataha5/AI_Heart_Attack)** | Healthcare ML ❤️  
-  Created a machine learning model using Scikit-learn and Pandas to predict heart attack risk, achieving 85% accuracy.  
-  <p align="center"><img src="https://github.com/mustafataha5/AI_Heart_Attack/blob/main/imgs/website_with_prediction.png" width="300" alt="Heart Attack Prediction Plot"/></p>
+  Created a machine learning model using Scikit-learn and Pandas to predict heart attack risk, achieving 85% accuracy.
 
 - **[Reinforcement Learning](https://github.com/mustafataha5/Reinforcement-Learning)** | Drone & Gaming AI 🚁🎮  
-  Implemented Q-learning for drone navigation in a custom Gymnasium environment and trained agents for Atari/Flappy Bird with Stable-Baselines3.  
-  <p align="center"><img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/dron_q_learn_1_eval.png" width="300" alt="Drone Navigation Evaluation"/></p>
+  Implemented Q-learning for drone navigation in a custom Gymnasium environment and trained agents for Atari/Flappy Bird with Stable-Baselines3.
 
 - **NLP Projects** | Sentiment & Classification 📝  
   Built models for sentiment analysis (movies, Arabic tweets), spam detection, and fake news classification using BERT and RNNs (repo coming soon).
@@ -125,6 +127,7 @@ As part of my **Artificial Intelligence Nanodegree** from Hsoub Academy, I built
   Created AI-powered chatbots using Streamlit and Flask/Django, integrated with ML models (repo coming soon).
 
 ---
+
 ## 💻 Full-Stack Projects
 
 My full-stack projects showcase scalable web and mobile applications:
@@ -141,10 +144,23 @@ Here are some of my key projects demonstrating my full-stack capabilities and pr
 
 -   **[E-Commerce](https://github.com/mustafataha5/e-commerce/)** | Shopping Mall Web Application 🛍️
     A full-stack application with a **React-based admin panel** and a **Flutter client**, leveraging **Node.js** and **MongoDB**. It offers dynamic mall navigation, real-time product availability, and comprehensive store/user management.
+---
 
-#### Project Snapshots:
+## 📷 Project Snapshots
+
+
+
+
 
 <p align="center">
+   <img src="https://github.com/mustafataha5/Reinforcement-Learning/blob/main/imgs/trained_PandaReach-v3.png" width="300" alt="RL ROBOT"/>
+  <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/sales_vs_categories_bar.PNG" width="300" alt="E-commerce Sales Categories Bar"/>
+  <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/coustemers_per_country.PNG" width="300" alt="E-commerce Customers per Country"/>
+  <img src="https://github.com/mustafataha5/smart-ecommerce-ai-recommender/raw/main/imgs/sales_per_country.PNG" width="300" alt="E-commerce Sales per Country"/>
+  <img src="https://github.com/mustafataha5/AI_Heart_Attack/blob/main/imgs/website_with_prediction.png" width="300" alt="Heart Attack Prediction Plot"/>
+  <img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/dron_q_learn_1_eval.png" width="300" alt="Drone Navigation Evaluation 1"/>
+  <img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/dron_q_learn_2_eval.png" width="300" alt="Drone Navigation Evaluation 2"/>
+  <img src="https://github.com/mustafataha5/Reinforcement-Learning/raw/main/imgs/arm_ppo_reach_reward.png" width="300" alt="PPO Reach Reward"/>
   <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/entry.png" width="300" alt="E-Commerce Entry Page"/>
   <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/main.png" width="300" alt="E-Commerce Main Page"/>
   <img src="https://github.com/mustafataha5/e-commerce/blob/master/images/cart.png" width="300" alt="E-Commerce Cart Page"/>
